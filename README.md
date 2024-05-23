@@ -1,7 +1,7 @@
 # Hey! 👋
 
-I'm Jonathon Purvis, a passionate Computer Science student at the University of Scranton. I'm interested in full-stack development, AI/ML, and data science. 
-I also plan on I love the idea of bettering tools and software that I use daily.
+I'm Jonathon Purvis, a passionate Computer Science student at the University of Scranton. Additionally, I am planning to pursue my Master's degree through an accelerated 5-year program
+at the University of Scranton following the completion of my Bachelor's degree. I'm interested in full-stack development, AI/ML, and data science and I love the idea of bettering tools and software that I use daily.
 
 ## 🧑‍💻 About Me
 
