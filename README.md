@@ -7,7 +7,7 @@ at the University of Scranton following the completion of my Bachelor's degree. 
 
 - **🎓 Education**: Pursuing a B.S. in Computer Science with a Data Science concentration
 - **📍 Location**: Scranton, PA
-- **🔗 LinkedIn**: [Visit here](https://www.linkedin.com/in/your-linkedin)
+- **🔗 LinkedIn**: [Visit here](www.linkedin.com/in/jonathon-purvis)
 - **🌐 Website/Portfolio**: [Coming soon](http://my-portfolio-link.com)
 
 ## ⚙️ Skills
@@ -20,8 +20,10 @@ at the University of Scranton following the completion of my Bachelor's degree. 
 ## 🛠️ Projects
 
 - **ToppDoc (Note: Cannot be linked due to company policy)**: A full-stack web application for user-friendly data querying using OpenAI API, Langchain, and Node.js.
-- **[Atomic Chess Engine](https://github.com/your-username/atomic-chess-engine)**: An AI-based engine for Atomic Chess, developed with PyTorch and a convolutional neural network.
-- **[CLI Chess Game](https://github.com/your-username/cli-chess-game)**: A command-line interface chess game built with Java, demonstrating object-oriented programming principles.
+- **[Atomic Chess Engine](https://github.com/Jon-Purvis/Atomic_Chess_Engine)**: An AI-based engine for Atomic Chess, developed with PyTorch and a convolutional neural network.
+- **[CLI Chess Game](https://github.com/Jon-Purvis/CLI_Chess)**: A command-line interface chess game built with Java, demonstrating object-oriented programming principles.
+- **[Higher Education Salaries](https://github.com/Jon-Purvis/semester_project_purvis)**: Applied machine learning techniques in R to analyze mid/early career pay trends in higher education.
+
 
 ## 💼 Work Experience
 
@@ -41,7 +43,7 @@ at the University of Scranton following the completion of my Bachelor's degree. 
 Feel free to reach out for collaboration, questions, or just to say hi!
 
 - **Email**: jon.purvis0@gmail.com
-- **LinkedIn**: [Visit here](https://www.linkedin.com/in/your-linkedin)
+- **LinkedIn**: [Visit here](www.linkedin.com/in/jonathon-purvis)
 
 ---
 
