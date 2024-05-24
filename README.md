@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Jonathon Purvis, a Computer Science student at the University of Scranton, currently pursuing a bachelors degreee in Computer Science with a concentration in Data Science. 
+I'm Jonathon Purvis, a Computer Science student at the University of Scranton, currently pursuing a bachelors degree in Computer Science with a concentration in Data Science. 
 I plan to continue my education through an accelerated 5-year Master's program the University of Scranton offers. I'm interested in full-stack development, AI/ML, and data science and 
 I love the idea of bettering tools and software that I use daily.
 
