@@ -8,7 +8,7 @@ I love the idea of bettering tools and software that I use daily.
 
 - **🎓 Education**: Pursuing a B.S. in Computer Science with a Data Science concentration
 - **📍 Location**: Scranton, PA
-- **🔗 LinkedIn**: [Visit here](www.linkedin.com/in/jonathon-purvis)
+- **🔗 LinkedIn**: [Visit here](https://www.linkedin.com/in/jonathon-purvis/)
 - **🌐 Website/Portfolio**: [Coming soon](http://my-portfolio-link.com)
 
 ## ⚙️ Skills
@@ -44,7 +44,7 @@ I love the idea of bettering tools and software that I use daily.
 Feel free to reach out for collaboration, questions, or just to say hi!
 
 - **Email**: jon.purvis0@gmail.com
-- **LinkedIn**: [Visit here](www.linkedin.com/in/jonathon-purvis)
+- **LinkedIn**: [Visit here](https://www.linkedin.com/in/jonathon-purvis/)
 
 ---
 
