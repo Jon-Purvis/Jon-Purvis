@@ -16,7 +16,7 @@ I love the idea of bettering tools and software that I use daily.
 - **Programming Languages**: Java, Python, R, Assembly, C, SQL
 - **Web Development**: HTML, CSS, JavaScript, Next.js, React.js 
 - **Data Science & AI**: PyTorch, Keras, Scikit-learn, numpy, pandas, ggplot2
-- **Tools & Platforms**: Git, GitHub, REST APIs, macOS, UNIX, LINIX, 
+- **Tools & Platforms**: CLI, Git, GitHub, REST APIs, macOS, UNIX, LINIX, 
 
 ## 🛠️ Projects
 
