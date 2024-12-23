@@ -19,7 +19,7 @@ Hi! I'm Jonathon Purvis, a Junior Computer Science student at the University of 
 ## 🛠️ Projects
 
 - **TCP Chat Server and Client**: A basic chat system that allows communication between two clients over a TCP connection, developed with C, PostgreSQL, Docker, and AWS.
-- **WeBlog Java Applicaton**: A blogging platform built with Java, Maven, PostgreSQL, and bcrypt for secure authentication. The application allows users to create accounts, post blog entries, read posts, and follow other bloggers.
+- **[WeBlog Java Applicaton](https://github.com/Jon-Purvis/weblog)**: A blogging platform built with Java, Maven, PostgreSQL, and bcrypt for secure authentication. The application allows users to create accounts, post blog entries, read posts, and follow other bloggers.
 - **Simple Unix Shell**: A custom UNIX shell written in C. It has command parsing, built-in commands, and job control functionality.
 - **ToppDoc (Note: Cannot be linked due to company policy)**: A full-stack web application for user-friendly data querying using OpenAI API, Langchain, and Node.js.
 - **[Atomic Chess Engine](https://github.com/Jon-Purvis/Atomic_Chess_Engine)**: An AI-based engine for Atomic Chess, developed with PyTorch and a convolutional neural network.
