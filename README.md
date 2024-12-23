@@ -1,24 +1,26 @@
 # Hey! 👋
 
-I'm Jonathon Purvis, a Computer Science student at the University of Scranton, currently pursuing a bachelors degree in Computer Science with a concentration in Data Science. 
-I plan to continue my education through an accelerated 5-year Master's program the University of Scranton offers. I'm interested in full-stack development, AI/ML, and data science. I love the idea of bettering tools and software that I use daily.
+Hi! I'm Jonathon Purvis, a Junior Computer Science student at the University of Scranton, currently pursuing a bachelors degree in Computer Science with a concentration in Data Science. I plan to continue my education through the University’s accelerated 5-year Master’s program in Software Engineering. I'm interested in software engineering, full-stack development, database, DevOps, and AI/ML. I particularly enjoy developing and configuring tools and software that I use daily and that improve how we interact with technology.
 
 ## 🧑‍💻 About Me
 
-- **🎓 Education**: Pursuing a B.S. in Computer Science with a Data Science concentration
+- **🎓 Education**: Pursuing a B.S. in Computer Science
 - **📍 Location**: Scranton, PA
 - **🔗 LinkedIn**: [Visit here](https://www.linkedin.com/in/jonathon-purvis/)
 - **🌐 Website/Portfolio**: [Coming soon](http://my-portfolio-link.com)
 
 ## ⚙️ Skills
 
-- **Programming Languages**: Java, Python, R, Assembly, C, SQL
-- **Web Development**: HTML, CSS, JavaScript, Next.js, React.js 
-- **Data Science & AI**: PyTorch, Keras, Scikit-learn, numpy, pandas, ggplot2
-- **Tools & Platforms**: CLI, Git, GitHub, REST APIs, macOS, UNIX, LINIX, 
+- **Languages**: Java, C, Python, SQL (Postgres), HTML/CSS, JavaScript, R
+- **Frameworks**: JUnit, React, PyTorch, Scikit-Learn
+- **Developer Tools**: Git, Gitlab, Maven, CMake, Docker, AWS, Vim, Zsh, VsCode
+- **Libraries**: JDBC, pandas, NumPy, ggplot2
 
 ## 🛠️ Projects
 
+- **TCP Chat Server and Client**: A basic chat system that allows communication between two clients over a TCP connection, developed with C, PostgreSQL, Docker, and AWS.
+- **WeBlog Java Applicaton**: A blogging platform built with Java, Maven, PostgreSQL, and bcrypt for secure authentication. The application allows users to create accounts, post blog entries, read posts, and follow other bloggers.
+- **Simple Unix Shell**: A custom UNIX shell written in C. It has command parsing, built-in commands, and job control functionality.
 - **ToppDoc (Note: Cannot be linked due to company policy)**: A full-stack web application for user-friendly data querying using OpenAI API, Langchain, and Node.js.
 - **[Atomic Chess Engine](https://github.com/Jon-Purvis/Atomic_Chess_Engine)**: An AI-based engine for Atomic Chess, developed with PyTorch and a convolutional neural network.
 - **[CLI Chess Game](https://github.com/Jon-Purvis/CLI_Chess)**: A command-line interface chess game built with Java, demonstrating object-oriented programming principles.
@@ -34,14 +36,16 @@ I plan to continue my education through an accelerated 5-year Master's program t
 
 ## 🌱 Currently Learning
 
-- Operating Systems (CMPS 352 Operating Systems)
-- Databases (CMPS 340 Introduction to Databases)
-- Computer Architecture (CMPS 350 Computer Architecture)
+- Programming Languages (CMPS 344: Programming Languages)
+- AI/ML (DS 362: Data Driven Discover)
+- Computers and Ethics (PHIL 214: Computers and Ethics)
+- Sign Language (ASL 102: American Sign Language)
 
 ## 💬 Get in Touch
 
 Feel free to reach out for collaboration, questions, or just to say hi!
 
+- **Email**: jonathon.purvis@scranton.edu
 - **Email**: jon.purvis0@gmail.com
 - **LinkedIn**: [Visit here](https://www.linkedin.com/in/jonathon-purvis/)
 
@@ -61,7 +65,7 @@ Feel free to reach out for collaboration, questions, or just to say hi!
   - Bench: 225
   - Squat: 365
   - Deadlift: 405
-- Leg day = best day
+- Leg day == best day
 
 </details>
 
@@ -76,26 +80,25 @@ Feel free to reach out for collaboration, questions, or just to say hi!
 <details>
 <summary><b>🖥️ Video Games</b></summary>
 
-- **Valorant:** Peak Diamond 1
-- **Rocket League:** Peak Champ 2
-- **Teamfight Tactics:** Peak Masters
-- **Destiny 2:** Peak Ascendant
-- **League of Legends:** Peak Gold 1 🥲
+- **Valorant** 
+- **League of Legends** 
+- **Rocket League** 
+- **Teamfight Tactics** 
 
 </details>
 
 <details>
 <summary><b>📺 TV Shows, Movies, Anime</b></summary>
 
-- **Breaking Bad:**
-- **Death Note:**
-- **Attack On Titan:**
-- **Money Heist:**
-- **Demon Slayer:** 
-- **Stranger Things:**
+- **Breaking Bad**
+- **Hunter x Hunter**
+- **Attack On Titan**
+- **Solo Leveling**
+- **Demon Slayer**
+- **Money Heist**
+- **Stranger Things**
 - **Marvel Movies**
 - **Harry Potter**
-- **Whiplash**
 
 </details>
 
